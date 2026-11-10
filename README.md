@@ -13,7 +13,7 @@ I'm **Mahdi**, a network and security professional based in **Luxembourg**, with
 
 I've worked with Fortinet firewalls and FortiAnalyzer, administered endpoint protection for **300+ endpoints**, and managed networks and access across Cisco, MikroTik, and Active Directory. Reviewing logs, validating alerts, and resolving operational incidents are the parts of that work I'm building on today.
 
-My current focus is **security monitoring and incident response**, supported by hands-on Blue Team coursework and a part-time **Master's in Information System Security Management** at the **University of Luxembourg**.
+My current focus is **security monitoring and incident response**, supported by hands-on Blue Team coursework @ Digital Learning Hub Luxembourg and a part-time **Master's in Information System Security Management** @ the **University of Luxembourg**.
 
 ## What I bring
 
