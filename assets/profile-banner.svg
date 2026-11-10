@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Mahdi Hamidi — Network and Security Specialist</title>
+  <desc id="desc">Networks. Signals. Response. Based in Luxembourg, focused on defensive security.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1"><stop stop-color="#0b1323"/><stop offset="1" stop-color="#172c42"/></linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#94a3b8" stroke-opacity=".055"/></pattern>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#background)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+  <path d="M0 298H1200" stroke="#2dd4bf" stroke-width="4"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="58" y="62" fill="#5eead4" font-size="13" font-weight="700" letter-spacing="3">NETWORKS / SIGNALS / RESPONSE</text>
+    <text x="54" y="132" fill="#f8fafc" font-size="57" font-weight="700">Mahdi Hamidi</text>
+    <text x="58" y="177" fill="#cbd5e1" font-size="23">Network &amp; Security Specialist</text>
+    <text x="58" y="237" fill="#94a3b8" font-size="16">Luxembourg · Security monitoring · Incident response</text>
+  </g>
+  <g fill="none" stroke="#2dd4bf" stroke-width="2">
+    <rect x="860" y="65" width="265" height="170" rx="14" fill="#0b1323" fill-opacity=".45" stroke="#334155"/>
+    <path d="M880 150H920L935 118L953 183L975 132L991 150H1105" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="920" cy="150" r="4" fill="#2dd4bf"/>
+    <circle cx="991" cy="150" r="4" fill="#2dd4bf"/>
+    <path d="M880 88H932M880 211H914" stroke="#64748b"/>
+    <circle cx="1105" cy="88" r="4" fill="#2dd4bf"/>
+  </g>
+</svg>
